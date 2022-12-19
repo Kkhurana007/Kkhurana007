@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects using ML, AI, and DL approaches in the field of Soil and Agricultural Sciences to control green house gas emissions and currently, I'm [working with this lab](https://kallenbachcm.wixsite.com/soils/people). 
 - 📫 Please feel free to reach me through email- Kunal.khurana@mcgill.ca
 
-Education
+📝Education
 - 2022| GÉNIE ET SCIENCE APPLIQUÉES| CÉGEP DU VIEUX MONTRÉAL, CA
 - 2021| FRANCISATION ET INÉGRATION AU MILIEU QUÉBÉCOIS| UNIVERSITÉ LAVAL, CA
 - 2016| MASTER’S IN SOIL SCIENCE| PUNJAB AGRICULTURAL UNIVERSITY, IN
