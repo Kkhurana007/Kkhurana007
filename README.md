@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kunal Khurana
 - 👀 I’m interested in applying the ML tools in the field of agriculture and soil sciences.
 - 🌱 I’m currently learning the use of ML models in Python.
-- 📫 Please feel free to reach me through email- Kunal.khurana@mcgill.ca
+- 📫 Please feel free to reach me through email- Khuranasoilpau@gmail.com
 
 📝Education
 - 2022| GÉNIE ET SCIENCE APPLIQUÉES| CÉGEP DU VIEUX MONTRÉAL, CA
