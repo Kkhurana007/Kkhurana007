@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunal Khurana
 - 👀 I’m interested in applying the ML tools in the field of agriculture and soil sciences.
-- 🌱 I’m currently learning the use of ML models in Python.
+- 🌱 I’m currently testing different ML models to compare their efficiency in Python.
 - 📫 Please feel free to reach me through email- Khuranasoilpau@gmail.com
 
 📝Education
